@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javieraguirre83
 - 👀 I’m interested in ... Software Testing and Boxing
 - 🌱 I’m currently learning ... Project Management and Test Automation
-- 💞️ I’m looking to collaborate on ... Software TEsting
+- 💞️ I’m looking to collaborate on ... Software Testing
 - 📫 How to reach me ... https://www.linkedin.com/in/javier-aguirre-flores/
 
 <!---
